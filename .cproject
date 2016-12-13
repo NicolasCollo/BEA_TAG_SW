@@ -34,7 +34,6 @@
 									<listOptionValue builtIn="false" value="C:/Users/Utlisateur/Documents/GitHub/BEA_TAG_SW/CMSIS/core"/>
 									<listOptionValue builtIn="false" value="C:/Users/Utlisateur/Documents/GitHub/BEA_TAG_SW/CMSIS/device"/>
 									<listOptionValue builtIn="false" value="C:/Users/Utlisateur/Documents/GitHub/BEA_TAG_SW/StdPeriph_Driver/inc"/>
-									<listOptionValue builtIn="false" value="&quot;C:/Users/Utlisateur/Documents/GitHub/BEA_TAG_SW/tous les fichiers&quot;"/>
 									<listOptionValue builtIn="false" value="C:/Users/Utlisateur/Documents/GitHub/BEA_TAG_SW/Utilities"/>
 								</option>
 								<option id="gnu.c.compiler.option.preprocessor.def.symbols.1657734328" name="Defined symbols (-D)" superClass="gnu.c.compiler.option.preprocessor.def.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
@@ -45,6 +44,7 @@
 									<listOptionValue builtIn="false" value="DEBUG"/>
 									<listOptionValue builtIn="false" value="USE_STDPERIPH_DRIVER"/>
 									<listOptionValue builtIn="false" value="STM32L1XX_MDP"/>
+									<listOptionValue builtIn="false" value="__ASSEMBLY__"/>
 								</option>
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.457610216" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c"/>
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s.1773425059" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s"/>
@@ -67,7 +67,6 @@
 									<listOptionValue builtIn="false" value="C:/Users/Utlisateur/Documents/GitHub/BEA_TAG_SW/CMSIS/core"/>
 									<listOptionValue builtIn="false" value="C:/Users/Utlisateur/Documents/GitHub/BEA_TAG_SW/CMSIS/device"/>
 									<listOptionValue builtIn="false" value="C:/Users/Utlisateur/Documents/GitHub/BEA_TAG_SW/StdPeriph_Driver/inc"/>
-									<listOptionValue builtIn="false" value="&quot;C:/Users/Utlisateur/Documents/GitHub/BEA_TAG_SW/tous les fichiers&quot;"/>
 									<listOptionValue builtIn="false" value="C:/Users/Utlisateur/Documents/GitHub/BEA_TAG_SW/Utilities"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1373493515" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
@@ -183,4 +182,5 @@
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
 	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>
