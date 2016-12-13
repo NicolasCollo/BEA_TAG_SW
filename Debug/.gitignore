@@ -1,7 +1,7 @@
 /StdPeriph_Driver/
+/sources.mk
 /Utilities/
 /makefile
 /objects.list
 /objects.mk
-/sources.mk
 /src/

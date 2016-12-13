@@ -28,7 +28,7 @@ extern void usb_run(void);
 extern int usb_init(void);
 extern void usb_printconfig(int, uint8*, int);
 extern void send_usbmessage(uint8*, int);
-
+//
 
 #define DWINTERRUPT_EN (1)  //set to 1 when using DW interrupt, set to 0 to poll DW1000 IRQ line
 

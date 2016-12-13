@@ -195,7 +195,7 @@ Discarded input sections
                 0x00000000       0x40 StdPeriph_Driver/src/misc.o
  .debug_ranges  0x00000000       0x30 StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000      0x18f StdPeriph_Driver/src/misc.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/misc.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/misc.o
@@ -229,7 +229,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000       0x82 StdPeriph_Driver/src/misc.o
  .debug_line    0x00000000      0x5ef StdPeriph_Driver/src/misc.o
- .debug_str     0x00000000    0x4de1d StdPeriph_Driver/src/misc.o
+ .debug_str     0x00000000    0x4de2c StdPeriph_Driver/src/misc.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/misc.o
  .debug_frame   0x00000000       0xd8 StdPeriph_Driver/src/misc.o
  .ARM.attributes
@@ -351,7 +351,7 @@ Discarded input sections
                 0x00000000      0x148 StdPeriph_Driver/src/stm32l1xx_adc.o
  .debug_ranges  0x00000000      0x138 StdPeriph_Driver/src/stm32l1xx_adc.o
  .debug_macro   0x00000000      0x21d StdPeriph_Driver/src/stm32l1xx_adc.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_adc.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_adc.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_adc.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_adc.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_adc.o
@@ -385,7 +385,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_adc.o
  .debug_macro   0x00000000      0x43e StdPeriph_Driver/src/stm32l1xx_adc.o
  .debug_line    0x00000000      0x936 StdPeriph_Driver/src/stm32l1xx_adc.o
- .debug_str     0x00000000    0x4e569 StdPeriph_Driver/src/stm32l1xx_adc.o
+ .debug_str     0x00000000    0x4e578 StdPeriph_Driver/src/stm32l1xx_adc.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_adc.o
  .debug_frame   0x00000000      0x5fc StdPeriph_Driver/src/stm32l1xx_adc.o
  .ARM.attributes
@@ -468,7 +468,7 @@ Discarded input sections
                 0x00000000       0xa8 StdPeriph_Driver/src/stm32l1xx_aes.o
  .debug_ranges  0x00000000       0x98 StdPeriph_Driver/src/stm32l1xx_aes.o
  .debug_macro   0x00000000      0x198 StdPeriph_Driver/src/stm32l1xx_aes.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_aes.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_aes.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_aes.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_aes.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_aes.o
@@ -503,7 +503,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_aes.o
  .debug_macro   0x00000000       0xae StdPeriph_Driver/src/stm32l1xx_aes.o
  .debug_line    0x00000000      0x71b StdPeriph_Driver/src/stm32l1xx_aes.o
- .debug_str     0x00000000    0x4e4b0 StdPeriph_Driver/src/stm32l1xx_aes.o
+ .debug_str     0x00000000    0x4e4bf StdPeriph_Driver/src/stm32l1xx_aes.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_aes.o
  .debug_frame   0x00000000      0x2cc StdPeriph_Driver/src/stm32l1xx_aes.o
  .ARM.attributes
@@ -563,7 +563,7 @@ Discarded input sections
                 0x00000000       0x48 StdPeriph_Driver/src/stm32l1xx_aes_util.o
  .debug_ranges  0x00000000       0x38 StdPeriph_Driver/src/stm32l1xx_aes_util.o
  .debug_macro   0x00000000      0x194 StdPeriph_Driver/src/stm32l1xx_aes_util.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_aes_util.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_aes_util.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_aes_util.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_aes_util.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_aes_util.o
@@ -598,7 +598,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_aes_util.o
  .debug_macro   0x00000000       0xae StdPeriph_Driver/src/stm32l1xx_aes_util.o
  .debug_line    0x00000000      0x9f7 StdPeriph_Driver/src/stm32l1xx_aes_util.o
- .debug_str     0x00000000    0x4e3d9 StdPeriph_Driver/src/stm32l1xx_aes_util.o
+ .debug_str     0x00000000    0x4e3e8 StdPeriph_Driver/src/stm32l1xx_aes_util.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_aes_util.o
  .debug_frame   0x00000000      0x100 StdPeriph_Driver/src/stm32l1xx_aes_util.o
  .ARM.attributes
@@ -659,7 +659,7 @@ Discarded input sections
                 0x00000000       0x50 StdPeriph_Driver/src/stm32l1xx_comp.o
  .debug_ranges  0x00000000       0x40 StdPeriph_Driver/src/stm32l1xx_comp.o
  .debug_macro   0x00000000      0x189 StdPeriph_Driver/src/stm32l1xx_comp.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_comp.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_comp.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_comp.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_comp.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_comp.o
@@ -693,7 +693,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_comp.o
  .debug_macro   0x00000000       0xa3 StdPeriph_Driver/src/stm32l1xx_comp.o
  .debug_line    0x00000000      0x620 StdPeriph_Driver/src/stm32l1xx_comp.o
- .debug_str     0x00000000    0x4dcd5 StdPeriph_Driver/src/stm32l1xx_comp.o
+ .debug_str     0x00000000    0x4dce4 StdPeriph_Driver/src/stm32l1xx_comp.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_comp.o
  .debug_frame   0x00000000      0x120 StdPeriph_Driver/src/stm32l1xx_comp.o
  .ARM.attributes
@@ -752,7 +752,7 @@ Discarded input sections
                 0x00000000       0x48 StdPeriph_Driver/src/stm32l1xx_crc.o
  .debug_ranges  0x00000000       0x38 StdPeriph_Driver/src/stm32l1xx_crc.o
  .debug_macro   0x00000000      0x183 StdPeriph_Driver/src/stm32l1xx_crc.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_crc.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_crc.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_crc.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_crc.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_crc.o
@@ -786,7 +786,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x88 StdPeriph_Driver/src/stm32l1xx_crc.o
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_crc.o
  .debug_line    0x00000000      0x606 StdPeriph_Driver/src/stm32l1xx_crc.o
- .debug_str     0x00000000    0x4dc70 StdPeriph_Driver/src/stm32l1xx_crc.o
+ .debug_str     0x00000000    0x4dc7f StdPeriph_Driver/src/stm32l1xx_crc.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_crc.o
  .debug_frame   0x00000000       0xe8 StdPeriph_Driver/src/stm32l1xx_crc.o
  .ARM.attributes
@@ -866,7 +866,7 @@ Discarded input sections
                 0x00000000       0xa0 StdPeriph_Driver/src/stm32l1xx_dac.o
  .debug_ranges  0x00000000       0x90 StdPeriph_Driver/src/stm32l1xx_dac.o
  .debug_macro   0x00000000      0x1b9 StdPeriph_Driver/src/stm32l1xx_dac.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_dac.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_dac.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_dac.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_dac.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_dac.o
@@ -900,7 +900,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_dac.o
  .debug_macro   0x00000000      0x179 StdPeriph_Driver/src/stm32l1xx_dac.o
  .debug_line    0x00000000      0x6fa StdPeriph_Driver/src/stm32l1xx_dac.o
- .debug_str     0x00000000    0x4df81 StdPeriph_Driver/src/stm32l1xx_dac.o
+ .debug_str     0x00000000    0x4df90 StdPeriph_Driver/src/stm32l1xx_dac.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_dac.o
  .debug_frame   0x00000000      0x2ac StdPeriph_Driver/src/stm32l1xx_dac.o
  .ARM.attributes
@@ -957,7 +957,7 @@ Discarded input sections
                 0x00000000       0x40 StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
  .debug_ranges  0x00000000       0x30 StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
  .debug_macro   0x00000000      0x18f StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
@@ -991,7 +991,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
  .debug_macro   0x00000000       0x7c StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
  .debug_line    0x00000000      0x5ec StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
- .debug_str     0x00000000    0x4dc8e StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
+ .debug_str     0x00000000    0x4dc9d StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
  .debug_frame   0x00000000       0xc8 StdPeriph_Driver/src/stm32l1xx_dbgmcu.o
  .ARM.attributes
@@ -1059,7 +1059,7 @@ Discarded input sections
                 0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_dma.o
  .debug_ranges  0x00000000       0x60 StdPeriph_Driver/src/stm32l1xx_dma.o
  .debug_macro   0x00000000      0x1e1 StdPeriph_Driver/src/stm32l1xx_dma.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_dma.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_dma.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_dma.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_dma.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_dma.o
@@ -1093,7 +1093,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_dma.o
  .debug_macro   0x00000000      0x3a8 StdPeriph_Driver/src/stm32l1xx_dma.o
  .debug_line    0x00000000      0x6db StdPeriph_Driver/src/stm32l1xx_dma.o
- .debug_str     0x00000000    0x4e2bf StdPeriph_Driver/src/stm32l1xx_dma.o
+ .debug_str     0x00000000    0x4e2ce StdPeriph_Driver/src/stm32l1xx_dma.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_dma.o
  .debug_frame   0x00000000      0x1c8 StdPeriph_Driver/src/stm32l1xx_dma.o
  .ARM.attributes
@@ -1156,7 +1156,7 @@ Discarded input sections
                 0x00000000       0x58 StdPeriph_Driver/src/stm32l1xx_exti.o
  .debug_ranges  0x00000000       0x48 StdPeriph_Driver/src/stm32l1xx_exti.o
  .debug_macro   0x00000000      0x18f StdPeriph_Driver/src/stm32l1xx_exti.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_exti.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_exti.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_exti.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_exti.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_exti.o
@@ -1190,7 +1190,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_exti.o
  .debug_macro   0x00000000       0xb3 StdPeriph_Driver/src/stm32l1xx_exti.o
  .debug_line    0x00000000      0x63f StdPeriph_Driver/src/stm32l1xx_exti.o
- .debug_str     0x00000000    0x4dd93 StdPeriph_Driver/src/stm32l1xx_exti.o
+ .debug_str     0x00000000    0x4dda2 StdPeriph_Driver/src/stm32l1xx_exti.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_exti.o
  .debug_frame   0x00000000      0x148 StdPeriph_Driver/src/stm32l1xx_exti.o
  .ARM.attributes
@@ -1327,7 +1327,7 @@ Discarded input sections
                 0x00000000      0x180 StdPeriph_Driver/src/stm32l1xx_flash.o
  .debug_ranges  0x00000000      0x170 StdPeriph_Driver/src/stm32l1xx_flash.o
  .debug_macro   0x00000000      0x1ad StdPeriph_Driver/src/stm32l1xx_flash.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_flash.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_flash.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_flash.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_flash.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_flash.o
@@ -1361,7 +1361,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_flash.o
  .debug_macro   0x00000000      0x41c StdPeriph_Driver/src/stm32l1xx_flash.o
  .debug_line    0x00000000      0x9ce StdPeriph_Driver/src/stm32l1xx_flash.o
- .debug_str     0x00000000    0x4e26f StdPeriph_Driver/src/stm32l1xx_flash.o
+ .debug_str     0x00000000    0x4e27e StdPeriph_Driver/src/stm32l1xx_flash.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_flash.o
  .debug_frame   0x00000000      0x658 StdPeriph_Driver/src/stm32l1xx_flash.o
  .ARM.attributes
@@ -1409,7 +1409,7 @@ Discarded input sections
                 0x00000000       0x58 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
  .debug_ranges  0x00000000       0x48 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
  .debug_macro   0x00000000      0x189 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
@@ -1443,7 +1443,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
  .debug_macro   0x00000000      0x41c StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
  .debug_line    0x00000000      0x630 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
- .debug_str     0x00000000    0x4dde6 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
+ .debug_str     0x00000000    0x4ddf5 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
  .debug_frame   0x00000000      0x140 StdPeriph_Driver/src/stm32l1xx_flash_ramfunc.o
  .ARM.attributes
@@ -1499,7 +1499,7 @@ Discarded input sections
                 0x00000000       0x38 StdPeriph_Driver/src/stm32l1xx_fsmc.o
  .debug_ranges  0x00000000       0x28 StdPeriph_Driver/src/stm32l1xx_fsmc.o
  .debug_macro   0x00000000      0x192 StdPeriph_Driver/src/stm32l1xx_fsmc.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_fsmc.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_fsmc.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_fsmc.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_fsmc.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_fsmc.o
@@ -1534,7 +1534,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_fsmc.o
  .debug_macro   0x00000000      0x177 StdPeriph_Driver/src/stm32l1xx_fsmc.o
  .debug_line    0x00000000      0x64a StdPeriph_Driver/src/stm32l1xx_fsmc.o
- .debug_str     0x00000000    0x4ec50 StdPeriph_Driver/src/stm32l1xx_fsmc.o
+ .debug_str     0x00000000    0x4ec5f StdPeriph_Driver/src/stm32l1xx_fsmc.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_fsmc.o
  .debug_frame   0x00000000       0xb0 StdPeriph_Driver/src/stm32l1xx_fsmc.o
  .ARM.attributes
@@ -1609,7 +1609,7 @@ Discarded input sections
                 0x00000000       0x88 StdPeriph_Driver/src/stm32l1xx_gpio.o
  .debug_ranges  0x00000000       0x78 StdPeriph_Driver/src/stm32l1xx_gpio.o
  .debug_macro   0x00000000      0x18d StdPeriph_Driver/src/stm32l1xx_gpio.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_gpio.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_gpio.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_gpio.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_gpio.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_gpio.o
@@ -1643,7 +1643,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_gpio.o
  .debug_macro   0x00000000      0x1fd StdPeriph_Driver/src/stm32l1xx_gpio.o
  .debug_line    0x00000000      0x708 StdPeriph_Driver/src/stm32l1xx_gpio.o
- .debug_str     0x00000000    0x4deed StdPeriph_Driver/src/stm32l1xx_gpio.o
+ .debug_str     0x00000000    0x4defc StdPeriph_Driver/src/stm32l1xx_gpio.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_gpio.o
  .debug_frame   0x00000000      0x23c StdPeriph_Driver/src/stm32l1xx_gpio.o
  .ARM.attributes
@@ -1755,7 +1755,7 @@ Discarded input sections
                 0x00000000      0x120 StdPeriph_Driver/src/stm32l1xx_i2c.o
  .debug_ranges  0x00000000      0x110 StdPeriph_Driver/src/stm32l1xx_i2c.o
  .debug_macro   0x00000000      0x19f StdPeriph_Driver/src/stm32l1xx_i2c.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_i2c.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_i2c.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_i2c.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_i2c.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_i2c.o
@@ -1789,7 +1789,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_i2c.o
  .debug_macro   0x00000000      0x2ac StdPeriph_Driver/src/stm32l1xx_i2c.o
  .debug_line    0x00000000      0x875 StdPeriph_Driver/src/stm32l1xx_i2c.o
- .debug_str     0x00000000    0x4e0ee StdPeriph_Driver/src/stm32l1xx_i2c.o
+ .debug_str     0x00000000    0x4e0fd StdPeriph_Driver/src/stm32l1xx_i2c.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_i2c.o
  .debug_frame   0x00000000      0x530 StdPeriph_Driver/src/stm32l1xx_i2c.o
  .ARM.attributes
@@ -1848,7 +1848,7 @@ Discarded input sections
                 0x00000000       0x48 StdPeriph_Driver/src/stm32l1xx_iwdg.o
  .debug_ranges  0x00000000       0x38 StdPeriph_Driver/src/stm32l1xx_iwdg.o
  .debug_macro   0x00000000      0x195 StdPeriph_Driver/src/stm32l1xx_iwdg.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_iwdg.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_iwdg.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_iwdg.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_iwdg.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_iwdg.o
@@ -1882,7 +1882,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_iwdg.o
  .debug_macro   0x00000000       0x5e StdPeriph_Driver/src/stm32l1xx_iwdg.o
  .debug_line    0x00000000      0x5f8 StdPeriph_Driver/src/stm32l1xx_iwdg.o
- .debug_str     0x00000000    0x4dcd3 StdPeriph_Driver/src/stm32l1xx_iwdg.o
+ .debug_str     0x00000000    0x4dce2 StdPeriph_Driver/src/stm32l1xx_iwdg.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_iwdg.o
  .debug_frame   0x00000000       0xf0 StdPeriph_Driver/src/stm32l1xx_iwdg.o
  .ARM.attributes
@@ -1964,7 +1964,7 @@ Discarded input sections
                 0x00000000       0xa8 StdPeriph_Driver/src/stm32l1xx_lcd.o
  .debug_ranges  0x00000000       0x98 StdPeriph_Driver/src/stm32l1xx_lcd.o
  .debug_macro   0x00000000      0x203 StdPeriph_Driver/src/stm32l1xx_lcd.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_lcd.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_lcd.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_lcd.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_lcd.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_lcd.o
@@ -1998,7 +1998,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_lcd.o
  .debug_macro   0x00000000      0x31f StdPeriph_Driver/src/stm32l1xx_lcd.o
  .debug_line    0x00000000      0x706 StdPeriph_Driver/src/stm32l1xx_lcd.o
- .debug_str     0x00000000    0x4e113 StdPeriph_Driver/src/stm32l1xx_lcd.o
+ .debug_str     0x00000000    0x4e122 StdPeriph_Driver/src/stm32l1xx_lcd.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_lcd.o
  .debug_frame   0x00000000      0x2c8 StdPeriph_Driver/src/stm32l1xx_lcd.o
  .ARM.attributes
@@ -2064,7 +2064,7 @@ Discarded input sections
                 0x00000000       0x60 StdPeriph_Driver/src/stm32l1xx_opamp.o
  .debug_ranges  0x00000000       0x50 StdPeriph_Driver/src/stm32l1xx_opamp.o
  .debug_macro   0x00000000      0x18e StdPeriph_Driver/src/stm32l1xx_opamp.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_opamp.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_opamp.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_opamp.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_opamp.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_opamp.o
@@ -2099,7 +2099,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_opamp.o
  .debug_macro   0x00000000       0xc2 StdPeriph_Driver/src/stm32l1xx_opamp.o
  .debug_line    0x00000000      0x68d StdPeriph_Driver/src/stm32l1xx_opamp.o
- .debug_str     0x00000000    0x4e348 StdPeriph_Driver/src/stm32l1xx_opamp.o
+ .debug_str     0x00000000    0x4e357 StdPeriph_Driver/src/stm32l1xx_opamp.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_opamp.o
  .debug_frame   0x00000000      0x170 StdPeriph_Driver/src/stm32l1xx_opamp.o
  .ARM.attributes
@@ -2174,7 +2174,7 @@ Discarded input sections
                 0x00000000       0x88 StdPeriph_Driver/src/stm32l1xx_pwr.o
  .debug_ranges  0x00000000       0x78 StdPeriph_Driver/src/stm32l1xx_pwr.o
  .debug_macro   0x00000000      0x1ed StdPeriph_Driver/src/stm32l1xx_pwr.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_pwr.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_pwr.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_pwr.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_pwr.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_pwr.o
@@ -2208,7 +2208,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_pwr.o
  .debug_macro   0x00000000       0xdb StdPeriph_Driver/src/stm32l1xx_pwr.o
  .debug_line    0x00000000      0x6d6 StdPeriph_Driver/src/stm32l1xx_pwr.o
- .debug_str     0x00000000    0x4e074 StdPeriph_Driver/src/stm32l1xx_pwr.o
+ .debug_str     0x00000000    0x4e083 StdPeriph_Driver/src/stm32l1xx_pwr.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_pwr.o
  .debug_frame   0x00000000      0x22c StdPeriph_Driver/src/stm32l1xx_pwr.o
  .ARM.attributes
@@ -2331,7 +2331,7 @@ Discarded input sections
                 0x00000000      0x148 StdPeriph_Driver/src/stm32l1xx_rcc.o
  .debug_ranges  0x00000000      0x138 StdPeriph_Driver/src/stm32l1xx_rcc.o
  .debug_macro   0x00000000      0x22f StdPeriph_Driver/src/stm32l1xx_rcc.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_rcc.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_rcc.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_rcc.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_rcc.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_rcc.o
@@ -2365,7 +2365,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_rcc.o
  .debug_macro   0x00000000      0x40d StdPeriph_Driver/src/stm32l1xx_rcc.o
  .debug_line    0x00000000      0x8c5 StdPeriph_Driver/src/stm32l1xx_rcc.o
- .debug_str     0x00000000    0x4e5cd StdPeriph_Driver/src/stm32l1xx_rcc.o
+ .debug_str     0x00000000    0x4e5dc StdPeriph_Driver/src/stm32l1xx_rcc.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_rcc.o
  .debug_frame   0x00000000      0x5e4 StdPeriph_Driver/src/stm32l1xx_rcc.o
  .ARM.attributes
@@ -2522,7 +2522,7 @@ Discarded input sections
                 0x00000000      0x1d0 StdPeriph_Driver/src/stm32l1xx_rtc.o
  .debug_ranges  0x00000000      0x1c0 StdPeriph_Driver/src/stm32l1xx_rtc.o
  .debug_macro   0x00000000      0x1ce StdPeriph_Driver/src/stm32l1xx_rtc.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_rtc.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_rtc.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_rtc.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_rtc.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_rtc.o
@@ -2556,7 +2556,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_rtc.o
  .debug_macro   0x00000000      0x5c9 StdPeriph_Driver/src/stm32l1xx_rtc.o
  .debug_line    0x00000000      0xba7 StdPeriph_Driver/src/stm32l1xx_rtc.o
- .debug_str     0x00000000    0x4e7dc StdPeriph_Driver/src/stm32l1xx_rtc.o
+ .debug_str     0x00000000    0x4e7eb StdPeriph_Driver/src/stm32l1xx_rtc.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_rtc.o
  .debug_frame   0x00000000      0x860 StdPeriph_Driver/src/stm32l1xx_rtc.o
  .ARM.attributes
@@ -2664,7 +2664,7 @@ Discarded input sections
                 0x00000000      0x108 StdPeriph_Driver/src/stm32l1xx_sdio.o
  .debug_ranges  0x00000000       0xf8 StdPeriph_Driver/src/stm32l1xx_sdio.o
  .debug_macro   0x00000000      0x25f StdPeriph_Driver/src/stm32l1xx_sdio.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_sdio.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_sdio.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_sdio.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_sdio.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_sdio.o
@@ -2699,7 +2699,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_sdio.o
  .debug_macro   0x00000000      0x33b StdPeriph_Driver/src/stm32l1xx_sdio.o
  .debug_line    0x00000000      0x7f4 StdPeriph_Driver/src/stm32l1xx_sdio.o
- .debug_str     0x00000000    0x5053f StdPeriph_Driver/src/stm32l1xx_sdio.o
+ .debug_str     0x00000000    0x5054e StdPeriph_Driver/src/stm32l1xx_sdio.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_sdio.o
  .debug_frame   0x00000000      0x48c StdPeriph_Driver/src/stm32l1xx_sdio.o
  .ARM.attributes
@@ -2790,7 +2790,7 @@ Discarded input sections
                 0x00000000       0xd0 StdPeriph_Driver/src/stm32l1xx_spi.o
  .debug_ranges  0x00000000       0xc0 StdPeriph_Driver/src/stm32l1xx_spi.o
  .debug_macro   0x00000000      0x199 StdPeriph_Driver/src/stm32l1xx_spi.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_spi.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_spi.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_spi.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_spi.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_spi.o
@@ -2824,7 +2824,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_spi.o
  .debug_macro   0x00000000      0x351 StdPeriph_Driver/src/stm32l1xx_spi.o
  .debug_line    0x00000000      0x7b8 StdPeriph_Driver/src/stm32l1xx_spi.o
- .debug_str     0x00000000    0x4e069 StdPeriph_Driver/src/stm32l1xx_spi.o
+ .debug_str     0x00000000    0x4e078 StdPeriph_Driver/src/stm32l1xx_spi.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_spi.o
  .debug_frame   0x00000000      0x3a0 StdPeriph_Driver/src/stm32l1xx_spi.o
  .ARM.attributes
@@ -2897,7 +2897,7 @@ Discarded input sections
                 0x00000000       0x80 StdPeriph_Driver/src/stm32l1xx_syscfg.o
  .debug_ranges  0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_syscfg.o
  .debug_macro   0x00000000      0x199 StdPeriph_Driver/src/stm32l1xx_syscfg.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_syscfg.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_syscfg.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_syscfg.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_syscfg.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_syscfg.o
@@ -2931,7 +2931,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_syscfg.o
  .debug_macro   0x00000000      0x41b StdPeriph_Driver/src/stm32l1xx_syscfg.o
  .debug_line    0x00000000      0x712 StdPeriph_Driver/src/stm32l1xx_syscfg.o
- .debug_str     0x00000000    0x4dee1 StdPeriph_Driver/src/stm32l1xx_syscfg.o
+ .debug_str     0x00000000    0x4def0 StdPeriph_Driver/src/stm32l1xx_syscfg.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_syscfg.o
  .debug_frame   0x00000000      0x1fc StdPeriph_Driver/src/stm32l1xx_syscfg.o
  .ARM.attributes
@@ -3145,7 +3145,7 @@ Discarded input sections
                 0x00000000      0x2b8 StdPeriph_Driver/src/stm32l1xx_tim.o
  .debug_ranges  0x00000000      0x2a8 StdPeriph_Driver/src/stm32l1xx_tim.o
  .debug_macro   0x00000000      0x1a0 StdPeriph_Driver/src/stm32l1xx_tim.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_tim.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_tim.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_tim.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_tim.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_tim.o
@@ -3179,7 +3179,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_tim.o
  .debug_macro   0x00000000      0x669 StdPeriph_Driver/src/stm32l1xx_tim.o
  .debug_line    0x00000000      0xd2d StdPeriph_Driver/src/stm32l1xx_tim.o
- .debug_str     0x00000000    0x4e6ca StdPeriph_Driver/src/stm32l1xx_tim.o
+ .debug_str     0x00000000    0x4e6d9 StdPeriph_Driver/src/stm32l1xx_tim.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_tim.o
  .debug_frame   0x00000000      0xd14 StdPeriph_Driver/src/stm32l1xx_tim.o
  .ARM.attributes
@@ -3284,7 +3284,7 @@ Discarded input sections
                 0x00000000      0x100 StdPeriph_Driver/src/stm32l1xx_usart.o
  .debug_ranges  0x00000000       0xf0 StdPeriph_Driver/src/stm32l1xx_usart.o
  .debug_macro   0x00000000      0x1a5 StdPeriph_Driver/src/stm32l1xx_usart.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_usart.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_usart.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_usart.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_usart.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_usart.o
@@ -3318,7 +3318,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_usart.o
  .debug_macro   0x00000000      0x21a StdPeriph_Driver/src/stm32l1xx_usart.o
  .debug_line    0x00000000      0x83e StdPeriph_Driver/src/stm32l1xx_usart.o
- .debug_str     0x00000000    0x4e1d8 StdPeriph_Driver/src/stm32l1xx_usart.o
+ .debug_str     0x00000000    0x4e1e7 StdPeriph_Driver/src/stm32l1xx_usart.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_usart.o
  .debug_frame   0x00000000      0x490 StdPeriph_Driver/src/stm32l1xx_usart.o
  .ARM.attributes
@@ -3381,7 +3381,7 @@ Discarded input sections
                 0x00000000       0x58 StdPeriph_Driver/src/stm32l1xx_wwdg.o
  .debug_ranges  0x00000000       0x48 StdPeriph_Driver/src/stm32l1xx_wwdg.o
  .debug_macro   0x00000000      0x1b7 StdPeriph_Driver/src/stm32l1xx_wwdg.o
- .debug_macro   0x00000000      0x892 StdPeriph_Driver/src/stm32l1xx_wwdg.o
+ .debug_macro   0x00000000      0x898 StdPeriph_Driver/src/stm32l1xx_wwdg.o
  .debug_macro   0x00000000       0x70 StdPeriph_Driver/src/stm32l1xx_wwdg.o
  .debug_macro   0x00000000       0x3a StdPeriph_Driver/src/stm32l1xx_wwdg.o
  .debug_macro   0x00000000       0x22 StdPeriph_Driver/src/stm32l1xx_wwdg.o
@@ -3415,7 +3415,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 StdPeriph_Driver/src/stm32l1xx_wwdg.o
  .debug_macro   0x00000000       0x2e StdPeriph_Driver/src/stm32l1xx_wwdg.o
  .debug_line    0x00000000      0x623 StdPeriph_Driver/src/stm32l1xx_wwdg.o
- .debug_str     0x00000000    0x4dd9c StdPeriph_Driver/src/stm32l1xx_wwdg.o
+ .debug_str     0x00000000    0x4ddab StdPeriph_Driver/src/stm32l1xx_wwdg.o
  .comment       0x00000000       0x6f StdPeriph_Driver/src/stm32l1xx_wwdg.o
  .debug_frame   0x00000000      0x134 StdPeriph_Driver/src/stm32l1xx_wwdg.o
  .ARM.attributes
@@ -3484,7 +3484,7 @@ Discarded input sections
                 0x00000000       0x68 Utilities/stm32l_discovery_lcd.o
  .debug_ranges  0x00000000       0x58 Utilities/stm32l_discovery_lcd.o
  .debug_macro   0x00000000      0x19b Utilities/stm32l_discovery_lcd.o
- .debug_macro   0x00000000      0x892 Utilities/stm32l_discovery_lcd.o
+ .debug_macro   0x00000000      0x898 Utilities/stm32l_discovery_lcd.o
  .debug_macro   0x00000000       0x70 Utilities/stm32l_discovery_lcd.o
  .debug_macro   0x00000000       0x3a Utilities/stm32l_discovery_lcd.o
  .debug_macro   0x00000000       0x22 Utilities/stm32l_discovery_lcd.o
@@ -3520,7 +3520,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x7c Utilities/stm32l_discovery_lcd.o
  .debug_macro   0x00000000       0xa0 Utilities/stm32l_discovery_lcd.o
  .debug_line    0x00000000      0x7bd Utilities/stm32l_discovery_lcd.o
- .debug_str     0x00000000    0x4e33d Utilities/stm32l_discovery_lcd.o
+ .debug_str     0x00000000    0x4e34c Utilities/stm32l_discovery_lcd.o
  .comment       0x00000000       0x6f Utilities/stm32l_discovery_lcd.o
  .debug_frame   0x00000000      0x17c Utilities/stm32l_discovery_lcd.o
  .ARM.attributes
@@ -3784,7 +3784,7 @@ Discarded input sections
                 0x00000000      0x2c0 src/deca_device.o
  .debug_ranges  0x00000000      0x2f8 src/deca_device.o
  .debug_macro   0x00000000      0x4e1 src/deca_device.o
- .debug_macro   0x00000000      0x892 src/deca_device.o
+ .debug_macro   0x00000000      0x898 src/deca_device.o
  .debug_macro   0x00000000       0x22 src/deca_device.o
  .debug_macro   0x00000000       0x4c src/deca_device.o
  .debug_macro   0x00000000       0x8d src/deca_device.o
@@ -3863,7 +3863,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 src/deca_device.o
  .debug_macro   0x00000000      0x28c src/deca_device.o
  .debug_line    0x00000000     0x1256 src/deca_device.o
- .debug_str     0x00000000    0x5a706 src/deca_device.o
+ .debug_str     0x00000000    0x5a715 src/deca_device.o
  .comment       0x00000000       0x6f src/deca_device.o
  .debug_frame   0x00000000      0xa14 src/deca_device.o
  .ARM.attributes
@@ -3959,7 +3959,7 @@ Discarded input sections
                 0x00000000       0x38 src/deca_mutex.o
  .debug_ranges  0x00000000       0x28 src/deca_mutex.o
  .debug_macro   0x00000000      0x3b7 src/deca_mutex.o
- .debug_macro   0x00000000      0x892 src/deca_mutex.o
+ .debug_macro   0x00000000      0x898 src/deca_mutex.o
  .debug_macro   0x00000000      0x244 src/deca_mutex.o
  .debug_macro   0x00000000       0x22 src/deca_mutex.o
  .debug_macro   0x00000000       0x4c src/deca_mutex.o
@@ -4034,7 +4034,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 src/deca_mutex.o
  .debug_macro   0x00000000      0x28c src/deca_mutex.o
  .debug_line    0x00000000      0x7ac src/deca_mutex.o
- .debug_str     0x00000000    0x55055 src/deca_mutex.o
+ .debug_str     0x00000000    0x55064 src/deca_mutex.o
  .comment       0x00000000       0x6f src/deca_mutex.o
  .debug_frame   0x00000000       0xa8 src/deca_mutex.o
  .ARM.attributes
@@ -4098,7 +4098,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 src/deca_params_init.o
  .debug_macro   0x00000000      0x2be src/deca_params_init.o
- .debug_macro   0x00000000      0x892 src/deca_params_init.o
+ .debug_macro   0x00000000      0x898 src/deca_params_init.o
  .debug_macro   0x00000000       0x22 src/deca_params_init.o
  .debug_macro   0x00000000       0x4c src/deca_params_init.o
  .debug_macro   0x00000000       0x8d src/deca_params_init.o
@@ -4149,7 +4149,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x2e src/deca_params_init.o
  .debug_macro   0x00000000       0x58 src/deca_params_init.o
  .debug_line    0x00000000      0x4e4 src/deca_params_init.o
- .debug_str     0x00000000     0xe5ef src/deca_params_init.o
+ .debug_str     0x00000000     0xe5fe src/deca_params_init.o
  .comment       0x00000000       0x6f src/deca_params_init.o
  .ARM.attributes
                 0x00000000       0x33 src/deca_params_init.o
@@ -4213,7 +4213,7 @@ Discarded input sections
                 0x00000000       0x20 src/deca_range_tables.o
  .debug_ranges  0x00000000       0x10 src/deca_range_tables.o
  .debug_macro   0x00000000      0x2d6 src/deca_range_tables.o
- .debug_macro   0x00000000      0x892 src/deca_range_tables.o
+ .debug_macro   0x00000000      0x898 src/deca_range_tables.o
  .debug_macro   0x00000000       0x22 src/deca_range_tables.o
  .debug_macro   0x00000000       0x4c src/deca_range_tables.o
  .debug_macro   0x00000000       0x8d src/deca_range_tables.o
@@ -4262,7 +4262,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x2e src/deca_range_tables.o
  .debug_macro   0x00000000       0x58 src/deca_range_tables.o
  .debug_line    0x00000000      0x523 src/deca_range_tables.o
- .debug_str     0x00000000     0x99dd src/deca_range_tables.o
+ .debug_str     0x00000000     0x99ec src/deca_range_tables.o
  .comment       0x00000000       0x6f src/deca_range_tables.o
  .debug_frame   0x00000000       0x38 src/deca_range_tables.o
  .ARM.attributes
@@ -4361,7 +4361,7 @@ Discarded input sections
                 0x00000000       0x40 src/deca_spi.o
  .debug_ranges  0x00000000       0x30 src/deca_spi.o
  .debug_macro   0x00000000      0x3e1 src/deca_spi.o
- .debug_macro   0x00000000      0x892 src/deca_spi.o
+ .debug_macro   0x00000000      0x898 src/deca_spi.o
  .debug_macro   0x00000000       0x22 src/deca_spi.o
  .debug_macro   0x00000000       0x4c src/deca_spi.o
  .debug_macro   0x00000000       0x8d src/deca_spi.o
@@ -4438,7 +4438,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 src/deca_spi.o
  .debug_macro   0x00000000      0x28c src/deca_spi.o
  .debug_line    0x00000000      0x8a0 src/deca_spi.o
- .debug_str     0x00000000    0x54e54 src/deca_spi.o
+ .debug_str     0x00000000    0x54e63 src/deca_spi.o
  .comment       0x00000000       0x6f src/deca_spi.o
  .debug_frame   0x00000000       0xc4 src/deca_spi.o
  .ARM.attributes
@@ -4565,7 +4565,7 @@ Discarded input sections
                 0x00000000       0x80 src/deca_usb.o
  .debug_ranges  0x00000000       0xb8 src/deca_usb.o
  .debug_macro   0x00000000      0x47d src/deca_usb.o
- .debug_macro   0x00000000      0x892 src/deca_usb.o
+ .debug_macro   0x00000000      0x898 src/deca_usb.o
  .debug_macro   0x00000000       0x22 src/deca_usb.o
  .debug_macro   0x00000000       0x4c src/deca_usb.o
  .debug_macro   0x00000000       0x8d src/deca_usb.o
@@ -4652,7 +4652,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 src/deca_usb.o
  .debug_macro   0x00000000       0x34 src/deca_usb.o
  .debug_line    0x00000000      0xb1c src/deca_usb.o
- .debug_str     0x00000000    0x585c0 src/deca_usb.o
+ .debug_str     0x00000000    0x585cf src/deca_usb.o
  .comment       0x00000000       0x6f src/deca_usb.o
  .debug_frame   0x00000000      0x1d4 src/deca_usb.o
  .ARM.attributes
@@ -4761,7 +4761,7 @@ Discarded input sections
                 0x00000000       0x58 src/deca_usb_bsp_evk1000.o
  .debug_ranges  0x00000000       0x48 src/deca_usb_bsp_evk1000.o
  .debug_macro   0x00000000      0x3ee src/deca_usb_bsp_evk1000.o
- .debug_macro   0x00000000      0x892 src/deca_usb_bsp_evk1000.o
+ .debug_macro   0x00000000      0x898 src/deca_usb_bsp_evk1000.o
  .debug_macro   0x00000000       0x10 src/deca_usb_bsp_evk1000.o
  .debug_macro   0x00000000       0x70 src/deca_usb_bsp_evk1000.o
  .debug_macro   0x00000000       0x3a src/deca_usb_bsp_evk1000.o
@@ -4840,7 +4840,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x28 src/deca_usb_bsp_evk1000.o
  .debug_macro   0x00000000      0x28c src/deca_usb_bsp_evk1000.o
  .debug_line    0x00000000      0x83b src/deca_usb_bsp_evk1000.o
- .debug_str     0x00000000    0x55f64 src/deca_usb_bsp_evk1000.o
+ .debug_str     0x00000000    0x55f73 src/deca_usb_bsp_evk1000.o
  .comment       0x00000000       0x6f src/deca_usb_bsp_evk1000.o
  .debug_frame   0x00000000      0x134 src/deca_usb_bsp_evk1000.o
  .ARM.attributes
@@ -4935,7 +4935,7 @@ Discarded input sections
                 0x00000000       0x30 src/dma_spi.o
  .debug_ranges  0x00000000       0x20 src/dma_spi.o
  .debug_macro   0x00000000      0x41a src/dma_spi.o
- .debug_macro   0x00000000      0x892 src/dma_spi.o
+ .debug_macro   0x00000000      0x898 src/dma_spi.o
  .debug_macro   0x00000000       0x70 src/dma_spi.o
  .debug_macro   0x00000000       0x3a src/dma_spi.o
  .debug_macro   0x00000000       0x22 src/dma_spi.o
@@ -5011,7 +5011,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x220 src/dma_spi.o
  .debug_macro   0x00000000      0x292 src/dma_spi.o
  .debug_line    0x00000000      0x81b src/dma_spi.o
- .debug_str     0x00000000    0x54fa7 src/dma_spi.o
+ .debug_str     0x00000000    0x54fb6 src/dma_spi.o
  .comment       0x00000000       0x6f src/dma_spi.o
  .debug_frame   0x00000000       0x6c src/dma_spi.o
  .ARM.attributes
@@ -5127,7 +5127,7 @@ Discarded input sections
                 0x00000000       0x70 src/instance.o
  .debug_ranges  0x00000000       0x78 src/instance.o
  .debug_macro   0x00000000      0x400 src/instance.o
- .debug_macro   0x00000000      0x892 src/instance.o
+ .debug_macro   0x00000000      0x898 src/instance.o
  .debug_macro   0x00000000       0x22 src/instance.o
  .debug_macro   0x00000000       0x4c src/instance.o
  .debug_macro   0x00000000       0x8d src/instance.o
@@ -5207,7 +5207,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x10 src/instance.o
  .debug_macro   0x00000000      0x254 src/instance.o
  .debug_line    0x00000000      0xafa src/instance.o
- .debug_str     0x00000000    0x5b06e src/instance.o
+ .debug_str     0x00000000    0x5b07d src/instance.o
  .comment       0x00000000       0x6f src/instance.o
  .debug_frame   0x00000000      0x1f8 src/instance.o
  .ARM.attributes
@@ -5305,7 +5305,7 @@ Discarded input sections
                 0x00000000       0x38 src/instance_calib.o
  .debug_ranges  0x00000000       0x28 src/instance_calib.o
  .debug_macro   0x00000000      0x3d0 src/instance_calib.o
- .debug_macro   0x00000000      0x892 src/instance_calib.o
+ .debug_macro   0x00000000      0x898 src/instance_calib.o
  .debug_macro   0x00000000       0x22 src/instance_calib.o
  .debug_macro   0x00000000       0x4c src/instance_calib.o
  .debug_macro   0x00000000       0x8d src/instance_calib.o
@@ -5381,7 +5381,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 src/instance_calib.o
  .debug_macro   0x00000000      0x28c src/instance_calib.o
  .debug_line    0x00000000      0x807 src/instance_calib.o
- .debug_str     0x00000000    0x560db src/instance_calib.o
+ .debug_str     0x00000000    0x560ea src/instance_calib.o
  .comment       0x00000000       0x6f src/instance_calib.o
  .debug_frame   0x00000000       0xa4 src/instance_calib.o
  .ARM.attributes
@@ -5567,7 +5567,7 @@ Discarded input sections
                 0x00000000      0x198 src/instance_common.o
  .debug_ranges  0x00000000      0x188 src/instance_common.o
  .debug_macro   0x00000000      0x3d9 src/instance_common.o
- .debug_macro   0x00000000      0x892 src/instance_common.o
+ .debug_macro   0x00000000      0x898 src/instance_common.o
  .debug_macro   0x00000000       0x22 src/instance_common.o
  .debug_macro   0x00000000       0x4c src/instance_common.o
  .debug_macro   0x00000000       0x8d src/instance_common.o
@@ -5644,7 +5644,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x10 src/instance_common.o
  .debug_macro   0x00000000      0x254 src/instance_common.o
  .debug_line    0x00000000      0xd22 src/instance_common.o
- .debug_str     0x00000000    0x566ed src/instance_common.o
+ .debug_str     0x00000000    0x566fc src/instance_common.o
  .comment       0x00000000       0x6f src/instance_common.o
  .debug_frame   0x00000000      0x730 src/instance_common.o
  .ARM.attributes
@@ -5755,14 +5755,14 @@ Discarded input sections
                 0x00000000       0x6c src/main.o
  .text.enterLowPowerRunMode
                 0x00000000       0x34 src/main.o
- .text.main     0x00000000      0x4c8 src/main.o
- .debug_info    0x00000000     0x1a23 src/main.o
+ .text.main     0x00000000      0x4ac src/main.o
+ .debug_info    0x00000000     0x1980 src/main.o
  .debug_abbrev  0x00000000      0x2bb src/main.o
  .debug_aranges
                 0x00000000       0x80 src/main.o
  .debug_ranges  0x00000000       0x70 src/main.o
  .debug_macro   0x00000000      0x42f src/main.o
- .debug_macro   0x00000000      0x892 src/main.o
+ .debug_macro   0x00000000      0x898 src/main.o
  .debug_macro   0x00000000       0x22 src/main.o
  .debug_macro   0x00000000       0x4c src/main.o
  .debug_macro   0x00000000       0x8d src/main.o
@@ -5842,7 +5842,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x7c src/main.o
  .debug_macro   0x00000000       0xa0 src/main.o
  .debug_line    0x00000000      0xa0d src/main.o
- .debug_str     0x00000000    0x56f09 src/main.o
+ .debug_str     0x00000000    0x56ed7 src/main.o
  .comment       0x00000000       0x6f src/main.o
  .debug_frame   0x00000000      0x1dc src/main.o
  .ARM.attributes
@@ -5978,7 +5978,7 @@ Discarded input sections
                 0x00000000       0xe0 src/port.o
  .debug_ranges  0x00000000       0xd0 src/port.o
  .debug_macro   0x00000000      0x3fc src/port.o
- .debug_macro   0x00000000      0x892 src/port.o
+ .debug_macro   0x00000000      0x898 src/port.o
  .debug_macro   0x00000000       0x22 src/port.o
  .debug_macro   0x00000000       0x4c src/port.o
  .debug_macro   0x00000000       0x8d src/port.o
@@ -6052,7 +6052,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 src/port.o
  .debug_macro   0x00000000      0x28c src/port.o
  .debug_line    0x00000000      0xa5a src/port.o
- .debug_str     0x00000000    0x5525b src/port.o
+ .debug_str     0x00000000    0x5526a src/port.o
  .comment       0x00000000       0x6f src/port.o
  .debug_frame   0x00000000      0x374 src/port.o
  .ARM.attributes
@@ -6180,7 +6180,7 @@ Discarded input sections
                 0x00000000       0xa0 src/stm32l1xx_it.o
  .debug_ranges  0x00000000       0x90 src/stm32l1xx_it.o
  .debug_macro   0x00000000      0x414 src/stm32l1xx_it.o
- .debug_macro   0x00000000      0x892 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x898 src/stm32l1xx_it.o
  .debug_macro   0x00000000       0x70 src/stm32l1xx_it.o
  .debug_macro   0x00000000       0x3a src/stm32l1xx_it.o
  .debug_macro   0x00000000       0x22 src/stm32l1xx_it.o
@@ -6261,7 +6261,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x5e src/stm32l1xx_it.o
  .debug_macro   0x00000000      0x118 src/stm32l1xx_it.o
  .debug_line    0x00000000      0x924 src/stm32l1xx_it.o
- .debug_str     0x00000000    0x56213 src/stm32l1xx_it.o
+ .debug_str     0x00000000    0x56222 src/stm32l1xx_it.o
  .comment       0x00000000       0x6f src/stm32l1xx_it.o
  .debug_frame   0x00000000      0x1f0 src/stm32l1xx_it.o
  .ARM.attributes
@@ -6369,7 +6369,7 @@ Discarded input sections
                 0x00000000       0x70 src/syscalls.o
  .debug_ranges  0x00000000       0x60 src/syscalls.o
  .debug_macro   0x00000000      0x3cd src/syscalls.o
- .debug_macro   0x00000000      0x892 src/syscalls.o
+ .debug_macro   0x00000000      0x898 src/syscalls.o
  .debug_macro   0x00000000       0x22 src/syscalls.o
  .debug_macro   0x00000000       0x4c src/syscalls.o
  .debug_macro   0x00000000       0x8d src/syscalls.o
@@ -6445,7 +6445,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x10 src/syscalls.o
  .debug_macro   0x00000000      0x241 src/syscalls.o
  .debug_line    0x00000000      0x86c src/syscalls.o
- .debug_str     0x00000000    0x54be3 src/syscalls.o
+ .debug_str     0x00000000    0x54bf2 src/syscalls.o
  .comment       0x00000000       0x6f src/syscalls.o
  .debug_frame   0x00000000      0x1b4 src/syscalls.o
  .ARM.attributes
@@ -6507,7 +6507,7 @@ Discarded input sections
                 0x00000000       0x28 src/unistd.o
  .debug_ranges  0x00000000       0x18 src/unistd.o
  .debug_macro   0x00000000      0x294 src/unistd.o
- .debug_macro   0x00000000      0x892 src/unistd.o
+ .debug_macro   0x00000000      0x898 src/unistd.o
  .debug_macro   0x00000000       0x22 src/unistd.o
  .debug_macro   0x00000000       0x4c src/unistd.o
  .debug_macro   0x00000000       0x8d src/unistd.o
@@ -6554,7 +6554,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x88 src/unistd.o
  .debug_macro   0x00000000       0x2e src/unistd.o
  .debug_line    0x00000000      0x4bf src/unistd.o
- .debug_str     0x00000000     0x90b6 src/unistd.o
+ .debug_str     0x00000000     0x90c5 src/unistd.o
  .comment       0x00000000       0x6f src/unistd.o
  .debug_frame   0x00000000       0x58 src/unistd.o
  .ARM.attributes
@@ -6629,7 +6629,7 @@ Discarded input sections
                 0x00000000       0x60 src/usbd_cdc_core.o
  .debug_ranges  0x00000000       0x50 src/usbd_cdc_core.o
  .debug_macro   0x00000000      0x211 src/usbd_cdc_core.o
- .debug_macro   0x00000000      0x892 src/usbd_cdc_core.o
+ .debug_macro   0x00000000      0x898 src/usbd_cdc_core.o
  .debug_macro   0x00000000       0x10 src/usbd_cdc_core.o
  .debug_macro   0x00000000       0x70 src/usbd_cdc_core.o
  .debug_macro   0x00000000       0x3a src/usbd_cdc_core.o
@@ -6673,7 +6673,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x8e src/usbd_cdc_core.o
  .debug_macro   0x00000000       0x34 src/usbd_cdc_core.o
  .debug_line    0x00000000      0x723 src/usbd_cdc_core.o
- .debug_str     0x00000000    0x4fb81 src/usbd_cdc_core.o
+ .debug_str     0x00000000    0x4fb90 src/usbd_cdc_core.o
  .comment       0x00000000       0x6f src/usbd_cdc_core.o
  .debug_frame   0x00000000      0x158 src/usbd_cdc_core.o
  .ARM.attributes
@@ -6762,7 +6762,7 @@ Discarded input sections
                 0x00000000       0x98 src/usbd_core.o
  .debug_ranges  0x00000000       0x88 src/usbd_core.o
  .debug_macro   0x00000000      0x206 src/usbd_core.o
- .debug_macro   0x00000000      0x892 src/usbd_core.o
+ .debug_macro   0x00000000      0x898 src/usbd_core.o
  .debug_macro   0x00000000       0x10 src/usbd_core.o
  .debug_macro   0x00000000       0x70 src/usbd_core.o
  .debug_macro   0x00000000       0x3a src/usbd_core.o
@@ -6805,7 +6805,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x11e src/usbd_core.o
  .debug_macro   0x00000000       0x16 src/usbd_core.o
  .debug_line    0x00000000      0x7e6 src/usbd_core.o
- .debug_str     0x00000000    0x4fa5f src/usbd_core.o
+ .debug_str     0x00000000    0x4fa6e src/usbd_core.o
  .comment       0x00000000       0x6f src/usbd_core.o
  .debug_frame   0x00000000      0x258 src/usbd_core.o
  .ARM.attributes
@@ -6877,7 +6877,7 @@ Discarded input sections
                 0x00000000       0x50 src/usbd_desc.o
  .debug_ranges  0x00000000       0x40 src/usbd_desc.o
  .debug_macro   0x00000000      0x23a src/usbd_desc.o
- .debug_macro   0x00000000      0x892 src/usbd_desc.o
+ .debug_macro   0x00000000      0x898 src/usbd_desc.o
  .debug_macro   0x00000000       0x10 src/usbd_desc.o
  .debug_macro   0x00000000       0x70 src/usbd_desc.o
  .debug_macro   0x00000000       0x3a src/usbd_desc.o
@@ -6920,7 +6920,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x11e src/usbd_desc.o
  .debug_macro   0x00000000       0x34 src/usbd_desc.o
  .debug_line    0x00000000      0x690 src/usbd_desc.o
- .debug_str     0x00000000    0x4f417 src/usbd_desc.o
+ .debug_str     0x00000000    0x4f426 src/usbd_desc.o
  .comment       0x00000000       0x6f src/usbd_desc.o
  .debug_frame   0x00000000      0x114 src/usbd_desc.o
  .ARM.attributes
@@ -6989,7 +6989,7 @@ Discarded input sections
                 0x00000000       0x50 src/usbd_ioreq.o
  .debug_ranges  0x00000000       0x40 src/usbd_ioreq.o
  .debug_macro   0x00000000      0x1ef src/usbd_ioreq.o
- .debug_macro   0x00000000      0x892 src/usbd_ioreq.o
+ .debug_macro   0x00000000      0x898 src/usbd_ioreq.o
  .debug_macro   0x00000000       0x10 src/usbd_ioreq.o
  .debug_macro   0x00000000       0x70 src/usbd_ioreq.o
  .debug_macro   0x00000000       0x3a src/usbd_ioreq.o
@@ -7031,7 +7031,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x64 src/usbd_ioreq.o
  .debug_macro   0x00000000       0x3a src/usbd_ioreq.o
  .debug_line    0x00000000      0x68b src/usbd_ioreq.o
- .debug_str     0x00000000    0x4f72f src/usbd_ioreq.o
+ .debug_str     0x00000000    0x4f73e src/usbd_ioreq.o
  .comment       0x00000000       0x6f src/usbd_ioreq.o
  .debug_frame   0x00000000      0x110 src/usbd_ioreq.o
  .ARM.attributes
@@ -7115,7 +7115,7 @@ Discarded input sections
                 0x00000000       0x88 src/usbd_req.o
  .debug_ranges  0x00000000       0x78 src/usbd_req.o
  .debug_macro   0x00000000      0x202 src/usbd_req.o
- .debug_macro   0x00000000      0x892 src/usbd_req.o
+ .debug_macro   0x00000000      0x898 src/usbd_req.o
  .debug_macro   0x00000000       0x10 src/usbd_req.o
  .debug_macro   0x00000000       0x70 src/usbd_req.o
  .debug_macro   0x00000000       0x3a src/usbd_req.o
@@ -7158,7 +7158,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x3a src/usbd_req.o
  .debug_macro   0x00000000       0x34 src/usbd_req.o
  .debug_line    0x00000000      0x87a src/usbd_req.o
- .debug_str     0x00000000    0x4f97a src/usbd_req.o
+ .debug_str     0x00000000    0x4f989 src/usbd_req.o
  .comment       0x00000000       0x6f src/usbd_req.o
  .debug_frame   0x00000000      0x210 src/usbd_req.o
  .ARM.attributes
@@ -7228,7 +7228,7 @@ Discarded input sections
                 0x00000000       0x50 src/usbd_usr.o
  .debug_ranges  0x00000000       0x40 src/usbd_usr.o
  .debug_macro   0x00000000      0x1ff src/usbd_usr.o
- .debug_macro   0x00000000      0x892 src/usbd_usr.o
+ .debug_macro   0x00000000      0x898 src/usbd_usr.o
  .debug_macro   0x00000000       0x10 src/usbd_usr.o
  .debug_macro   0x00000000       0x70 src/usbd_usr.o
  .debug_macro   0x00000000       0x3a src/usbd_usr.o
@@ -7270,7 +7270,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x5e src/usbd_usr.o
  .debug_macro   0x00000000      0x11e src/usbd_usr.o
  .debug_line    0x00000000      0x67f src/usbd_usr.o
- .debug_str     0x00000000    0x4f043 src/usbd_usr.o
+ .debug_str     0x00000000    0x4f052 src/usbd_usr.o
  .comment       0x00000000       0x6f src/usbd_usr.o
  .debug_frame   0x00000000       0xf8 src/usbd_usr.o
  .ARM.attributes
