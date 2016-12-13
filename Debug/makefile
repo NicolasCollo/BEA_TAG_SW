@@ -8,7 +8,6 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
--include startup/subdir.mk
 -include src/subdir.mk
 -include Utilities/subdir.mk
 -include StdPeriph_Driver/src/subdir.mk
@@ -35,7 +34,7 @@ all: BEA_TAG_SW.elf
 BEA_TAG_SW.elf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU GCC Linker'
-	arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -mfloat-abi=soft -T"C:\Users\Utlisateur\workspace\BEA_TAG_SW\LinkerScript.ld" -Wl,-Map=output.map -Wl,--gc-sections -lm -o "BEA_TAG_SW.elf" @"objects.list" $(USER_OBJS) $(LIBS)
+	arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -mfloat-abi=soft -T"C:\Users\Utlisateur\Documents\GitHub\BEA_TAG_SW\LinkerScript.ld" -Wl,-Map=output.map -Wl,--gc-sections -lm -o "BEA_TAG_SW.elf" @"objects.list" $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 	$(MAKE) --no-print-directory post-build

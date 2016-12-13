@@ -1,8 +1,5 @@
-src/unistd.o: \
- C:/Users/Utlisateur/Documents/GitHub/BEA_Badge/tous\ les\ fichiers/unistd.c \
- C:/Users/Utlisateur/Documents/GitHub/BEA_Badge/tous\ les\ fichiers/compiler.h \
- C:/Users/Utlisateur/Documents/GitHub/BEA_Badge/tous\ les\ fichiers/sleep.h
+src/unistd.o: ../src/unistd.c ../src/compiler.h ../src/sleep.h
 
-C:/Users/Utlisateur/Documents/GitHub/BEA_Badge/tous\ les\ fichiers/compiler.h:
+../src/compiler.h:
 
-C:/Users/Utlisateur/Documents/GitHub/BEA_Badge/tous\ les\ fichiers/sleep.h:
+../src/sleep.h:

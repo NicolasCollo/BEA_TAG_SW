@@ -41,7 +41,6 @@
 "src/port.o"
 "src/stm32l1xx_it.o"
 "src/syscalls.o"
-"src/system_stm32l1xx.o"
 "src/unistd.o"
 "src/usbd_cdc_core.o"
 "src/usbd_core.o"
@@ -49,4 +48,3 @@
 "src/usbd_ioreq.o"
 "src/usbd_req.o"
 "src/usbd_usr.o"
-"startup/startup_stm32l1xx_mdp.o"

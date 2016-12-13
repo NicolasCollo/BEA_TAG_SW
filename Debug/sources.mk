@@ -18,5 +18,4 @@ SUBDIRS := \
 StdPeriph_Driver/src \
 Utilities \
 src \
-startup \
 
