@@ -580,10 +580,10 @@ int main(void)
     memset(dataseq1, ' ', LCD_BUFF_LEN);
 
 
-    int testrising =EXTI->RTSR;
+   /* int testrising =EXTI->RTSR;
     int testemr =EXTI->EMR;
     int testimr =EXTI->IMR;
-    int testsoft =EXTI->PR;
+    int testsoft =EXTI->PR;*/
 
 
     // main loop
